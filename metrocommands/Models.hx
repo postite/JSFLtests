@@ -1,0 +1,10 @@
+class Models 
+{
+
+
+	
+	function new()
+	{
+		
+	}
+}

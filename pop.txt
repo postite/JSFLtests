@@ -1,0 +1,37 @@
+Ligne,Station,arm,menage,population,nbreAVoiture,perAvoiture,nbre1Voiture,per1Voiture,nbre2Voiture,per2voiture
+Ligne A,Arènes,Toulouse,4112,7510,2898,70.47%,2250,54.71%,648,15.76%
+Ligne A,Argoulets,Toulouse,3935,7626,3139,79.77%,2254,57.29%,885,22.48%
+Ligne A,Bagatelle,Toulouse,3985,8806,2484,62.33%,1931,48.45%,553,13.88%
+Ligne B,Barrière de Paris,Toulouse,6486,12868,5102,78.66%,3730,57.50%,1372,21.16%
+Ligne A,Basso Cambo,Toulouse,2858,5631,2269,79.38%,1815,63.50%,454,15.88%
+Ligne A,Bellefontaine,Toulouse,2552,6285,1813,71.03%,1499,58.75%,313,12.28%
+Ligne B,Borderouge,Toulouse,2165,4824,1890,87.29%,1244,57.46%,646,29.83%
+Ligne B,Canal du Midi,Toulouse,7651,13659,5618,73.43%,4214,55.07%,1405,18.36%
+Ligne A,Capitole,Toulouse,5775,8737,2666,46.17%,2199,38.08%,468,8.10%
+Ligne B,Carmes,Toulouse,4835,7875,2716,56.18%,2222,45.96%,494,10.22%
+Ligne B,Compans Caffarelli,Toulouse,6987,11025,3982,56.99%,3208,45.92%,774,11.07%
+Ligne B,Empalot,Toulouse,3190,6769,1546,48.48%,1300,40.77%,246,7.71%
+Ligne A,Esquirol,Toulouse,6380,10127,3308,51.86%,2713,42.53%,595,9.33%
+Ligne B,Faculté de Pharmacie,Toulouse,4953,6438,2791,56.35%,2392,48.29%,399,8.05%
+Ligne A,Fontaine Lestang,Toulouse,5174,9790,3668,70.89%,2762,53.37%,907,17.52%
+Ligne B,Francois Verdier,Toulouse,3877,5866,1994,51.43%,1663,42.89%,331,8.54%
+Ligne A/B,Jean Jaurès,Toulouse,7635,11319,3735,48.93%,3130,40.99%,606,7.93%
+Ligne B,Jeanne d'Arc,Toulouse,6395,9837,3260,50.98%,2747,42.95%,513,8.03%
+Ligne A,Jolimont,Toulouse,3009,4905,2113,70.22%,1631,54.21%,482,16.02%
+Ligne B,La Vache,Toulouse,2878,5606,2431,84.48%,1752,60.89%,679,23.58%
+Ligne A,Marengo SNCF,Toulouse,9957,16971,6861,68.91%,5402,54.25%,1459,14.66%
+Ligne A,Mermoz,Toulouse,3257,6808,2196,67.42%,1615,49.60%,581,17.83%
+Ligne B,Minimes - Claude Nougaro,Toulouse,2907,5367,2031,69.86%,1536,52.82%,495,17.04%
+Ligne A,Mirail Université,Toulouse,1082,1882,669,61.85%,528,48.79%,141,13.07%
+Ligne B,Palais de Justice,Toulouse,2147,3131,1192,55.51%,962,44.78%,230,10.73%
+Ligne A,Patte d'oie,Toulouse,2651,4249,1690,63.76%,1410,53.20%,280,10.56%
+Ligne B,Ramonville,Ramonville-Saint-Agne,6792,11023,4308,63.43%,3459,50.92%,849,12.51%
+Ligne B,Rangueil,Toulouse,2270,4611,1732,76.33%,1177,51.87%,555,24.46%
+Ligne A,Reynerie,Toulouse,2169,5602,1392,64.17%,1163,53.59%,230,10.58%
+Ligne A,Roseraie,Toulouse,5819,10082,4088,70.25%,3134,53.86%,954,16.39%
+Ligne B,Saouzelong,Toulouse,1159,2019,868,74.90%,677,58.40%,191,16.51%
+Ligne B,St Agne SNCF,Toulouse,1136,1884,807,71.00%,641,56.46%,165,14.54%
+Ligne A,St Cyprien / République,Toulouse,7956,12840,5130,64.48%,4207,52.88%,922,11.59%
+Ligne B,St Michel - Palais de Justice,Toulouse,5278,8176,2713,51.41%,2285,43.30%,428,8.11%
+Ligne B,Trois Cocus,Toulouse,3060,6620,2576,84.16%,1752,57.25%,824,26.91%
+Ligne B,Université Paul Sabatier,Toulouse,1836,2878,1443,78.59%,1171,63.78%,272,14.81%
